@@ -1,1 +1,2 @@
 # Movie-Recommender-System
+I prepared the MovieLens 10M dataset to build a content-based movie search and recommendation system. After cleaning and standardizing movie titles, I used TF-IDF Vectorization to extract features from the titles, including single words and bigrams. I then implemented a search function that calculates cosine similarity to identify and rank similar movies. This system provides a strong foundation for personalized movie recommendations.
